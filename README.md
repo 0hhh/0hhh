@@ -10,7 +10,7 @@
 
 <br clear="both">
 
-<img align="right" height="180" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif"  />
+<img align="right" height="180" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3Iyb2lidGQ2ODY0MG1kaXUzZWZrMnRpOGtidTF1NGpyc25jYWV0YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L8K62iTDkzGX6/giphy.gif"  />
 
 ###
 
@@ -25,6 +25,7 @@
 
 
 ###
+
 <br>
 <div align="left">
   <a href="https://www.linkedin.com/in/mahesh-pachare/" target="_blank">
@@ -33,7 +34,9 @@
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
 </div>
 
+
 ###
+
 <br>
 
 <h3 align="left">🛠 Language and tools</h3>
@@ -83,8 +86,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="40" alt="blender logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=arduino" height="40" alt="arduino logo"  />
@@ -103,17 +104,16 @@ _________________
 <h3 align="left">⚡   My Stats :</h3>
 
 ###
-
-<div align="right">
-  <img src="https://profile-counter.glitch.me/0hhh/count.svg?"  />
+<div align="left">
+  
+  ![](https://komarev.com/ghpvc/?username=0hhh)
 </div>
 
-###
-
-<div align="left">
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=0hhh&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
   <img src="https://github-readme-stats.vercel.app/api?username=0hhh&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
 </div>
+
 
 ###
 
@@ -128,5 +128,9 @@ _________________
 ###
 
 <h4 align="left">Hello World 🌏!!</h4>
+<div align="right">
+  <h5 align="right">View counts</h5>
+  <img src="https://profile-counter.glitch.me/0hhh/count.svg?"  />
+</div>
 
 ###
