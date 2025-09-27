@@ -129,9 +129,9 @@ _________________
 ###
 
 <h4 align="left">Hello World 🌏!!</h4>
-<div align="right">
+<!-- <div align="right">
   <h5 align="right">View counts</h5>
   <img src="https://profile-counter.glitch.me/0hhh/count.svg?"  />
-</div>
+</div> -->
 
 ###
